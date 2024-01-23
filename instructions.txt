@@ -1,0 +1,12 @@
+1. Install KeePassXC
+2. Install Github CLI
+3. Install zsh
+4. Install oh-my-zsh
+5. Install NerdFonts
+	- https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/JetBrainsMono.zip
+	- unzip JetBrainsMono.zip -d JetBrainsMono
+	- mkdir -p ~/.local/share/fonts
+	- mv ./JetBrainsMono/JetBrainsMonoNLNerdFont-Regular.ttf ~/.local/share/fonts
+	- mv ./JetBrainsMono/JetBrainsMonoNLNerdFont-SemiBold.ttf ~/.local/share/fonts
+	- fc-cache -f -v
+
