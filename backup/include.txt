@@ -1,0 +1,2 @@
+/home/h4v0c/Programming
+/home/h4v0c/dotfiles
